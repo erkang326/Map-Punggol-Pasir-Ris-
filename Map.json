@@ -5,3 +5,4 @@
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[103.9380294,1.3796030],[103.9353794,1.3811341],[103.9365810,1.3833919],[103.9385444,1.3822979],[103.9393383,1.3813755]]]},"properties":{"Precint":"PWZ16","RCZone":"PWZ16","Estate":"Green Oval"},"id":"Green Oval"},
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[103.9434206,1.3781417],[103.9420742,1.3763022],[103.9414251,1.3766776],[103.9412212,1.3750205],[103.9422029,1.3743233],[103.9444023,1.3774123]]]},"properties":{"Precint":"PWZ14","RCZone":"PWZ14","Estate":"Elias View"},"id":"Elias View"}
   ]
+}
